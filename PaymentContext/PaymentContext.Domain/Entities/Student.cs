@@ -36,8 +36,9 @@ namespace PaymentContext.Domain.Entities
         {
             var hasSubscriptionActive = false;
 
-            foreach (var sub in _subscription) {
-                if(sub.Active)
+            foreach (var sub in _subscription)
+            {
+                if (sub.Active)
                     hasSubscriptionActive = true;
             }
 
