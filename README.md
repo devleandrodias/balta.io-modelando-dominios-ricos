@@ -1,12 +1,12 @@
 # Modelando Domínios Ricos
 
-## Curso realizado com objetivo de aprender mais sobre modelagem de domínios
+### Curso realizado com objetivo de aprender mais sobre modelagem de domínios
 
 > O que foi abordado no curso
 
 - Línguagem Ubíqua
 - Sub Domínios
-- Organização de soluções
+- Organização de Soluções
 - SOLID e Clean Code
 - Primitive Obsession
 - Value Objects
